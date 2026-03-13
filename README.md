@@ -9,6 +9,13 @@
 
 ---
 
+## Blog Post
+
+Read the full write-up on Medium:  
+**[Can Machine Learning Predict Stock Prices?](https://medium.com/@marianamorao/can-machine-learning-predict-stock-prices-92628c016a40)**
+
+---
+
 ## Project Motivation
 
 Investment firms, hedge funds and individual traders use financial models to understand market behaviour and make profitable decisions. This project builds a **stock price predictor** for Amazon (AMZN) that:
@@ -126,3 +133,5 @@ Open `http://localhost:8501` in your browser.
 - [scikit-learn](https://scikit-learn.org/) — Machine learning framework
 - [XGBoost](https://xgboost.readthedocs.io/) — Gradient boosting library
 - Tucker Balch — *Machine Learning for Trading* (Georgia Tech / Udacity)
+
+ 
